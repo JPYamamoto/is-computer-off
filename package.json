@@ -1,6 +1,6 @@
 {
   "name": "is-computer-off",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/JPYamamoto/is-computer-off",
   "description": "Want to know if your computer is off? This algorithm is proven to always return the correct result.",
   "author": "Juan Pablo Yamamoto",
