@@ -12,7 +12,7 @@ var assert = require('assert');
 var isComputerOff = require('./');
 
 describe('isComputerOff', function() {
-  it('should return false if the computer is off:', function() {
+  it('should return false if the computer is on:', function() {
     assert(!isComputerOff());
   });
 });
